@@ -1,3 +1,7 @@
+Title: Resume
+Date: 2025-03-06
+Author: Carter Lupkowski
+
 # <p align="center">Carter Lupkowski</p>
 ## <p align="center">Winnipeg, MB | carter.lupkowski@mail.com | (204) 555-5555</p>
 **<p align="center">Education</p>**
