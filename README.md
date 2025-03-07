@@ -57,7 +57,7 @@ This document outlines the procedure to create and host your resume using a stat
 4. Your pelican project is created
 
 ### Creating the resume  
-**According to Andrew Etter, documentation should always be written in a lightweight markup language. Writing in a markup language can improve a documents readability as both the rendered version and unrendered version of the document are human readable. **  
+**According to Andrew Etter, documentation should always be written in a lightweight markup language. Writing in a markup language can improve a documents readability as both the rendered version and unrendered version of the document are human readable.**  
 1. Using a text editor of your choice, (Ex. notepad) create your resume using GitHubs markdown formatting.
 2. Farther down this page, under [Readings and resources](https://github.com/Lupkowski/TechComm/edit/main/README.md#readings-and-resources) are links to syntax guides for GitHubs markdown formatting.
 3. At the top of your resume you must include the following lines:
