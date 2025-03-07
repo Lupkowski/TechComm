@@ -1,5 +1,5 @@
 # Information  
-This document outlines the procedure to create and host your resume on a static website/forge.  
+This document outlines the procedure to create and host your resume using a static website/forge.  
 
 ## Requirements
 - Pelican static site generator
@@ -87,6 +87,9 @@ This document outlines the procedure to create and host your resume on a static 
      
 ## Readings and resources  
 For more information on using markdown in Github see [Basic formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and [Quickstart](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)  
+For different website themes, look into [Pelican Themes](https://docs.getpelican.com/en/latest/themes.html) for instructions on how to change the theme of your site.  
+For more information on Pelican, including how to quickly preview your site using local hosting see [Pelican](https://getpelican.com/)
+For more information on git's applications and features see [Git](https://github.com/git-guides)
 
 
 ## FAQ  
